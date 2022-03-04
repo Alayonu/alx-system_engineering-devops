@@ -1,2 +1,2 @@
 #!/bin/baash
-chgrp school hello
+chgrp school ./hello
