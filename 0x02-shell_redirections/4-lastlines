@@ -1,2 +1,2 @@
 #!/bin/bash
-last lines of a file
+tail -10 /etc/passwd
