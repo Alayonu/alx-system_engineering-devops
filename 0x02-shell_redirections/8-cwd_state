@@ -1,2 +1,2 @@
 #!/bin/bash
-save current state
+ls_cwd_content
