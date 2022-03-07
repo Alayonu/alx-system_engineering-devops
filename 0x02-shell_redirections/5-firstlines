@@ -1,2 +1,2 @@
 #!/bin/bash
-prefer the first ones actually
+head -10 /etc/passwd
